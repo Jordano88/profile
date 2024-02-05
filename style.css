@@ -1,0 +1,70 @@
+body {
+background-color: whitesmoke;
+color: rgb(44, 46, 47);
+text-align: center;
+text-decoration: none;
+font-family: 'Montserrat';
+font-weight: 400;
+background-image: url(images/Heleninha2.jpg);
+}
+
+div {
+  background: #b3cefadb;
+  padding: 10px;
+  border-radius: 2px;
+  width: 700px;
+  text-align: center;
+  margin: 20px auto;
+  text-decoration: none;
+}
+
+
+h2 {
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+ul {
+  text-align: center;
+  text-decoration: none;
+ }
+
+img {
+  width: 150px;
+  border-radius: 20px;
+}
+
+.family {
+  width: 300px;
+  border-radius: 20px;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Montserrat';
+  font-weight: 400;
+}
+
+.list-inline {
+  list-style: none;
+  padding: 0;
+}
+
+.list-inline li {
+  display: inline;
+}
+
+.youtube {
+  text-align: center;
+  text-decoration: none;
+  color: red;
+}
+
+.social-icon {
+  color: rgb(162, 162, 162);
+  font-size: 32px;
+  margin: 0 12px;
+}
+
+.social-icon:hover {
+  color: rgb(8, 8, 8);
+}
